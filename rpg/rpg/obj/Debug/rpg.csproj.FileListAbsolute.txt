@@ -1,0 +1,12 @@
+C:\Users\Tiger\Desktop\rpg\rpg\bin\Debug\rpg.exe.config
+C:\Users\Tiger\Desktop\rpg\rpg\bin\Debug\rpg.exe
+C:\Users\Tiger\Desktop\rpg\rpg\bin\Debug\rpg.pdb
+C:\Users\Tiger\Desktop\rpg\rpg\obj\Debug\rpg.Form1.resources
+C:\Users\Tiger\Desktop\rpg\rpg\obj\Debug\rpg.Properties.Resources.resources
+C:\Users\Tiger\Desktop\rpg\rpg\obj\Debug\rpg.csproj.GenerateResource.Cache
+C:\Users\Tiger\Desktop\rpg\rpg\obj\Debug\rpg.exe
+C:\Users\Tiger\Desktop\rpg\rpg\obj\Debug\rpg.pdb
+C:\Users\Tiger\Desktop\rpg\rpg\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tiger\Desktop\rpg\rpg\obj\Debug\rpg.csproj.ResolveComReference.cache
+C:\Users\Tiger\Desktop\rpg\rpg\obj\Debug\rpg.csprojAssemblyReference.cache
+C:\Users\Tiger\Desktop\rpg\rpg\obj\Debug\rpg.csproj.CoreCompileInputs.cache
